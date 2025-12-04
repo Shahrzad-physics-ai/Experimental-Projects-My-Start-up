@@ -1,5 +1,3 @@
-Experimental Projects & My Start-up
-
 I am an experimental physicist passionate about hands-on research and solving real-world problems through interdisciplinary approaches.
 
 Master's Thesis: WO3 Thin Films
